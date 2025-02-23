@@ -82,6 +82,7 @@ This project is designed to **practice modern React development** with a focus o
 
 ## 💡 Future Improvements  
 
+
 - ✅ Implement authentication  
 - ✅ Add real-time order tracking  
 - 🚀 Improve UI/UX with animations  
