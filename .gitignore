@@ -1,6 +1,6 @@
 # Dependencies
-/node_modules
-/.pnp
+node_modules/
+.pnp
 .pnp.js
 
 # Environment variables
@@ -11,11 +11,11 @@
 .env.production.local
 
 # Testing
-/coverage
+coverage/
 
 # Production
-/build
-/dist
+build/
+dist/
 
 # Debug logs
 npm-debug.log*
@@ -27,4 +27,4 @@ yarn-error.log*
 .vscode/
 *.swp
 *.swo
-.DS_Store 
+.DS_Store
